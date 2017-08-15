@@ -1,5 +1,3 @@
-# Code Learnings
-
 # JavaScript!
 
 -  **Deck of Cards** 
