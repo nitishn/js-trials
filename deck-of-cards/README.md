@@ -43,9 +43,8 @@
 
      **CHALLENGE ROUND** 
 
-    Do not use the following iterators
+    Do not use the following functions to iterate over arrays
 
     1. for
-    2. forEach
-    3. Array.prototype.forEach
+    2. Array.prototype.forEach
 
